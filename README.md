@@ -42,3 +42,12 @@ This is a submission from dicoding academy in Belajar Membuat Aplikasi Back-End 
 5. Delete book
     Method : DELETE
     URL: /books/{bookId}
+    
+6. Get All books by filtered
+    Method : GET
+    URL: 
+    -->  get reading books : /books?reading=1  
+    -->  get unreading books : /books?reading=0
+    -->  get finished books : /books?finished=1 
+    -->  get unfinished books : /books?finished=0 
+    -->  get books by name : /books?name={fill name you want}
