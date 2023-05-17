@@ -49,5 +49,5 @@ This is a submission from dicoding academy in Belajar Membuat Aplikasi Back-End 
     -->  get reading books : /books?reading=1  
     -->  get unreading books : /books?reading=0
     -->  get finished books : /books?finished=1 
-    -->  get unfinished books : /books?finished=0 \n
+    -->  get unfinished books : /books?finished=0
     -->  get books by name : /books?name={fill name you want}
